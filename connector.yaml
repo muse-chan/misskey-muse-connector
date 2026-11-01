@@ -1,0 +1,6 @@
+id: "custom.misskey-otnc-dev"
+title: "Misskey Otnc Dev"
+description: "Read and post on the Misskey instance at misskey.otnc.dev as the assistant account @muse, including notes, replies, reactions and follow backs."
+include_in_prompt: true
+require_auth: true
+aliases: ["misskey.otnc.dev", "Misskey"]
